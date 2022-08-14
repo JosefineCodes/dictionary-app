@@ -13,7 +13,17 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer text-center">
-          <small> coded by Josefine Werthmann</small>
+          <small>
+            {" "}
+            <a
+              href="https://github.com/JosefineCodes/dictionary-app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-source code
+            </a>{" "}
+            by Josefine Werthmann{" "}
+          </small>
         </footer>
       </div>
     </div>
