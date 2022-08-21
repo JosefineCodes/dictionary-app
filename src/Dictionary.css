@@ -5,5 +5,27 @@
   text-align: center;
 }
 .Dictionary-form {
-  margin-bottom: 20px;
+  margin: 0 auto;
+}
+
+.Dictionary section {
+  background-color: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 10px 10px rgb(0 0 0 / 10%);
+  margin: 20px 0;
+}
+.Dictionary input {
+  width: 90%;
+  padding: 6px 4px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  color: #333;
+  text-align: center;
+}
+
+.Dictionary .hint {
+  font-size: 14px;
+  margin-top: 5px;
+  color: #be5c5c;
 }
