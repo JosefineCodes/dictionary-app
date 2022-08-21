@@ -12,6 +12,11 @@
   margin: 30px 0;
 }
 
+.App-footer a {
+  text-decoration: none;
+  color: rgb(5, 74, 99);
+}
+
 .App {
-  background-color: beige;
+  background-color: #6d92a0;
 }

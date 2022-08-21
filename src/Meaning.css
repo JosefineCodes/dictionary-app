@@ -1,0 +1,8 @@
+.Meaning .Definition {
+  color: #103e50;
+}
+.Meaning .Example {
+  font-style: italic;
+  color: #103e50;
+  opacity: 0.7;
+}
